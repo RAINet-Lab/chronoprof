@@ -40,11 +40,11 @@ To reproduce the experiments in this repository, you will need to manually downl
 
 - **[Chinatown](https://github.com/iwuqing/Time-Series-Classification-based-on-KNN/tree/master/data/Chinatown):** This dataset is a well known public time series classification benchmark.
 
-Once downloaded, please place the datasets inside the `dataset/` folder as follows:
+Once downloaded, please place the datasets inside the `dataset` folder as follows:
 
 ```
-dataset/
-├── Chinatown/
+dataset
+├── Chinatown
 │ ├── Chinatown_TRAIN.tsv
 │ ├── Chinatown_TEST.tsv
 │ └── README.md
