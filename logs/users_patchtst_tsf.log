@@ -1,0 +1,57 @@
+torch.Size([708, 60, 1]) torch.Size([197, 60, 1]) torch.Size([708, 20, 1]) torch.Size([197, 20, 1])
+new best validation loss: 0.3733023405075073
+Epoch 0: train loss 0.751831, val loss 0.373302,  test loss 0.327012 
+new best validation loss: 0.3701944947242737
+Epoch 1: train loss 0.410015, val loss 0.370194,  test loss 0.338087 
+new best validation loss: 0.31369736790657043
+Epoch 2: train loss 0.292345, val loss 0.313697,  test loss 0.294848 
+Epoch 3: train loss 0.242577, val loss 0.361460,  test loss 0.319959 
+Epoch 4: train loss 0.227785, val loss 0.363411,  test loss 0.304020 
+Epoch 5: train loss 0.204200, val loss 0.408779,  test loss 0.325361 
+Epoch 6: train loss 0.182385, val loss 0.354816,  test loss 0.300908 
+Epoch 7: train loss 0.186963, val loss 0.366234,  test loss 0.343667 
+Epoch 8: train loss 0.204675, val loss 0.357233,  test loss 0.317842 
+Epoch 9: train loss 0.177135, val loss 0.349102,  test loss 0.299534 
+Epoch 10: train loss 0.197762, val loss 0.442133,  test loss 0.360026 
+Epoch 11: train loss 0.299452, val loss 0.365067,  test loss 0.313427 
+new best validation loss: 0.30155977606773376
+Epoch 12: train loss 0.207772, val loss 0.301560,  test loss 0.303405 
+Epoch 13: train loss 0.177304, val loss 0.354495,  test loss 0.313883 
+new best validation loss: 0.2978026270866394
+Epoch 14: train loss 0.168637, val loss 0.297803,  test loss 0.293388 
+Epoch 15: train loss 0.156955, val loss 0.315198,  test loss 0.293740 
+Epoch 16: train loss 0.150278, val loss 0.300328,  test loss 0.291109 
+Epoch 17: train loss 0.139238, val loss 0.338542,  test loss 0.300943 
+Epoch 18: train loss 0.146218, val loss 0.319331,  test loss 0.300318 
+Epoch 19: train loss 0.140211, val loss 0.317528,  test loss 0.296097 
+Epoch 20: train loss 0.124933, val loss 0.309081,  test loss 0.281938 
+new best validation loss: 0.26311126351356506
+Epoch 21: train loss 0.126246, val loss 0.263111,  test loss 0.269931 
+Epoch 22: train loss 0.129692, val loss 0.293131,  test loss 0.291392 
+Epoch 23: train loss 0.130642, val loss 0.326104,  test loss 0.283370 
+Epoch 24: train loss 0.121749, val loss 0.292914,  test loss 0.270674 
+Epoch 25: train loss 0.123422, val loss 0.304149,  test loss 0.276912 
+Epoch 26: train loss 0.124914, val loss 0.269969,  test loss 0.289307 
+Epoch 27: train loss 0.117237, val loss 0.303850,  test loss 0.290215 
+Epoch 28: train loss 0.110834, val loss 0.301815,  test loss 0.283004 
+Epoch 29: train loss 0.099310, val loss 0.301198,  test loss 0.284106 
+Epoch 30: train loss 0.108021, val loss 0.364428,  test loss 0.292165 
+Epoch 31: train loss 0.107938, val loss 0.300238,  test loss 0.292185 
+Epoch 32: train loss 0.103726, val loss 0.286134,  test loss 0.288704 
+Epoch 33: train loss 0.107520, val loss 0.320162,  test loss 0.291374 
+Epoch 34: train loss 0.106861, val loss 0.359818,  test loss 0.287248 
+Epoch 35: train loss 0.131177, val loss 0.322054,  test loss 0.254625 
+Epoch 36: train loss 0.108240, val loss 0.302123,  test loss 0.279882 
+Epoch 37: train loss 0.097877, val loss 0.270704,  test loss 0.279489 
+Epoch 38: train loss 0.101549, val loss 0.290284,  test loss 0.282986 
+Epoch 39: train loss 0.104397, val loss 0.291912,  test loss 0.290494 
+Epoch 40: train loss 0.103722, val loss 0.295917,  test loss 0.281217 
+Epoch 41: train loss 0.097854, val loss 0.301625,  test loss 0.282111 
+Epoch 42: train loss 0.092781, val loss 0.378367,  test loss 0.304731 
+Epoch 43: train loss 0.117513, val loss 0.305501,  test loss 0.274258 
+Epoch 44: train loss 0.126889, val loss 0.282010,  test loss 0.265447 
+Epoch 45: train loss 0.106060, val loss 0.340045,  test loss 0.301427 
+Epoch 46: train loss 0.099415, val loss 0.339600,  test loss 0.300078 
+Epoch 47: train loss 0.090011, val loss 0.269946,  test loss 0.289653 
+Epoch 48: train loss 0.088563, val loss 0.329152,  test loss 0.288506 
+Epoch 49: train loss 0.084551, val loss 0.303105,  test loss 0.289407 

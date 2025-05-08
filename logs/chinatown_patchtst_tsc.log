@@ -1,0 +1,248 @@
+torch.Size([20, 24, 1]) torch.Size([343, 24, 1])
+new best validation loss: 0.23709481954574585
+Epoch 0: train loss 0.724811, val loss 0.237095,  test loss 0.360085 
+new best validation loss: 0.11547377705574036
+Epoch 1: train loss 0.228193, val loss 0.115474,  test loss 0.253655 
+new best validation loss: 0.05919289588928223
+Epoch 2: train loss 0.122918, val loss 0.059193,  test loss 0.205065 
+new best validation loss: 0.031756166368722916
+Epoch 3: train loss 0.069156, val loss 0.031756,  test loss 0.180048 
+new best validation loss: 0.01867152750492096
+Epoch 4: train loss 0.041172, val loss 0.018672,  test loss 0.166648 
+new best validation loss: 0.012083546258509159
+Epoch 5: train loss 0.029908, val loss 0.012084,  test loss 0.161072 
+new best validation loss: 0.008579692803323269
+Epoch 6: train loss 0.022023, val loss 0.008580,  test loss 0.160731 
+new best validation loss: 0.006468920968472958
+Epoch 7: train loss 0.012884, val loss 0.006469,  test loss 0.163577 
+new best validation loss: 0.005163377616554499
+Epoch 8: train loss 0.006190, val loss 0.005163,  test loss 0.168466 
+new best validation loss: 0.004250406287610531
+Epoch 9: train loss 0.005366, val loss 0.004250,  test loss 0.173911 
+new best validation loss: 0.0035692937672138214
+Epoch 10: train loss 0.003948, val loss 0.003569,  test loss 0.179960 
+new best validation loss: 0.0030640633776783943
+Epoch 11: train loss 0.001937, val loss 0.003064,  test loss 0.186246 
+new best validation loss: 0.002709257649257779
+Epoch 12: train loss 0.002796, val loss 0.002709,  test loss 0.192210 
+new best validation loss: 0.0024718749336898327
+Epoch 13: train loss 0.004866, val loss 0.002472,  test loss 0.198154 
+new best validation loss: 0.0023094741627573967
+Epoch 14: train loss 0.001756, val loss 0.002309,  test loss 0.203422 
+new best validation loss: 0.002183168660849333
+Epoch 15: train loss 0.001769, val loss 0.002183,  test loss 0.208464 
+new best validation loss: 0.0020700739696621895
+Epoch 16: train loss 0.002859, val loss 0.002070,  test loss 0.213602 
+new best validation loss: 0.002010507043451071
+Epoch 17: train loss 0.002528, val loss 0.002011,  test loss 0.217726 
+new best validation loss: 0.0019647064618766308
+Epoch 18: train loss 0.001437, val loss 0.001965,  test loss 0.220882 
+new best validation loss: 0.0019001765176653862
+Epoch 19: train loss 0.001934, val loss 0.001900,  test loss 0.223866 
+new best validation loss: 0.0018410446355119348
+Epoch 20: train loss 0.001293, val loss 0.001841,  test loss 0.225449 
+new best validation loss: 0.001809653709642589
+Epoch 21: train loss 0.000540, val loss 0.001810,  test loss 0.226759 
+new best validation loss: 0.0017662448808550835
+Epoch 22: train loss 0.000839, val loss 0.001766,  test loss 0.227830 
+new best validation loss: 0.0017121433047577739
+Epoch 23: train loss 0.000690, val loss 0.001712,  test loss 0.228733 
+new best validation loss: 0.0016936726169660687
+Epoch 24: train loss 0.000979, val loss 0.001694,  test loss 0.228935 
+new best validation loss: 0.001658948021940887
+Epoch 25: train loss 0.001180, val loss 0.001659,  test loss 0.228436 
+new best validation loss: 0.001628275029361248
+Epoch 26: train loss 0.000699, val loss 0.001628,  test loss 0.228136 
+new best validation loss: 0.0015863749431446195
+Epoch 27: train loss 0.000566, val loss 0.001586,  test loss 0.227379 
+new best validation loss: 0.001567391911521554
+Epoch 28: train loss 0.000505, val loss 0.001567,  test loss 0.226479 
+new best validation loss: 0.0015350489411503077
+Epoch 29: train loss 0.000766, val loss 0.001535,  test loss 0.225677 
+new best validation loss: 0.0015322056133300066
+Epoch 30: train loss 0.000696, val loss 0.001532,  test loss 0.225085 
+Epoch 31: train loss 0.000696, val loss 0.001536,  test loss 0.223976 
+Epoch 32: train loss 0.000500, val loss 0.001540,  test loss 0.222930 
+new best validation loss: 0.0014919788809493184
+Epoch 33: train loss 0.000536, val loss 0.001492,  test loss 0.222587 
+new best validation loss: 0.001490675495006144
+Epoch 34: train loss 0.000322, val loss 0.001491,  test loss 0.222045 
+new best validation loss: 0.001449226401746273
+Epoch 35: train loss 0.000330, val loss 0.001449,  test loss 0.221352 
+Epoch 36: train loss 0.000320, val loss 0.001460,  test loss 0.220421 
+Epoch 37: train loss 0.000261, val loss 0.001474,  test loss 0.219252 
+Epoch 38: train loss 0.000260, val loss 0.001470,  test loss 0.218549 
+Epoch 39: train loss 0.000299, val loss 0.001476,  test loss 0.217834 
+Epoch 40: train loss 0.000359, val loss 0.001492,  test loss 0.217216 
+Epoch 41: train loss 0.000422, val loss 0.001471,  test loss 0.216417 
+new best validation loss: 0.0014454362681135535
+Epoch 42: train loss 0.000382, val loss 0.001445,  test loss 0.216307 
+new best validation loss: 0.001429316820576787
+Epoch 43: train loss 0.000422, val loss 0.001429,  test loss 0.215714 
+Epoch 44: train loss 0.000243, val loss 0.001444,  test loss 0.215179 
+new best validation loss: 0.0014256131835281849
+Epoch 45: train loss 0.000313, val loss 0.001426,  test loss 0.214489 
+Epoch 46: train loss 0.000218, val loss 0.001439,  test loss 0.213806 
+new best validation loss: 0.0014194203540682793
+Epoch 47: train loss 0.000243, val loss 0.001419,  test loss 0.213055 
+new best validation loss: 0.0014183244202286005
+Epoch 48: train loss 0.000212, val loss 0.001418,  test loss 0.212812 
+new best validation loss: 0.001408278476446867
+Epoch 49: train loss 0.000111, val loss 0.001408,  test loss 0.212203 
+new best validation loss: 0.001388362841680646
+Epoch 50: train loss 0.000234, val loss 0.001388,  test loss 0.211642 
+Epoch 51: train loss 0.000152, val loss 0.001401,  test loss 0.211068 
+Epoch 52: train loss 0.000160, val loss 0.001405,  test loss 0.211106 
+Epoch 53: train loss 0.000155, val loss 0.001411,  test loss 0.210640 
+Epoch 54: train loss 0.000140, val loss 0.001397,  test loss 0.210134 
+Epoch 55: train loss 0.000257, val loss 0.001393,  test loss 0.210475 
+new best validation loss: 0.0013638526434078813
+Epoch 56: train loss 0.000119, val loss 0.001364,  test loss 0.210364 
+new best validation loss: 0.0013543375534936786
+Epoch 57: train loss 0.000265, val loss 0.001354,  test loss 0.210797 
+Epoch 58: train loss 0.000278, val loss 0.001361,  test loss 0.210904 
+Epoch 59: train loss 0.000171, val loss 0.001367,  test loss 0.211228 
+Epoch 60: train loss 0.000162, val loss 0.001361,  test loss 0.211205 
+Epoch 61: train loss 0.000160, val loss 0.001370,  test loss 0.210659 
+Epoch 62: train loss 0.000202, val loss 0.001361,  test loss 0.210877 
+Epoch 63: train loss 0.000104, val loss 0.001372,  test loss 0.210399 
+Epoch 64: train loss 0.000140, val loss 0.001373,  test loss 0.210132 
+Epoch 65: train loss 0.000249, val loss 0.001361,  test loss 0.209999 
+new best validation loss: 0.0013136662309989333
+Epoch 66: train loss 0.000191, val loss 0.001314,  test loss 0.210329 
+new best validation loss: 0.0013076773611828685
+Epoch 67: train loss 0.000160, val loss 0.001308,  test loss 0.210932 
+Epoch 68: train loss 0.000138, val loss 0.001311,  test loss 0.210986 
+Epoch 69: train loss 0.000262, val loss 0.001316,  test loss 0.210715 
+Epoch 70: train loss 0.000217, val loss 0.001334,  test loss 0.210592 
+Epoch 71: train loss 0.000141, val loss 0.001335,  test loss 0.210906 
+Epoch 72: train loss 0.000320, val loss 0.001338,  test loss 0.210734 
+Epoch 73: train loss 0.000125, val loss 0.001334,  test loss 0.210898 
+Epoch 74: train loss 0.000277, val loss 0.001335,  test loss 0.211115 
+Epoch 75: train loss 0.000118, val loss 0.001358,  test loss 0.211010 
+Epoch 76: train loss 0.000112, val loss 0.001325,  test loss 0.210998 
+new best validation loss: 0.001298012095503509
+Epoch 77: train loss 0.000157, val loss 0.001298,  test loss 0.210842 
+new best validation loss: 0.0012809636536985636
+Epoch 78: train loss 0.000177, val loss 0.001281,  test loss 0.210611 
+new best validation loss: 0.0012787400046363473
+Epoch 79: train loss 0.000205, val loss 0.001279,  test loss 0.210804 
+new best validation loss: 0.0012757747899740934
+Epoch 80: train loss 0.000153, val loss 0.001276,  test loss 0.211327 
+Epoch 81: train loss 0.000172, val loss 0.001284,  test loss 0.210983 
+Epoch 82: train loss 0.000148, val loss 0.001287,  test loss 0.210453 
+Epoch 83: train loss 0.000114, val loss 0.001285,  test loss 0.209862 
+new best validation loss: 0.0012667611008509994
+Epoch 84: train loss 0.000267, val loss 0.001267,  test loss 0.209936 
+new best validation loss: 0.0012622539652511477
+Epoch 85: train loss 0.000226, val loss 0.001262,  test loss 0.209861 
+new best validation loss: 0.001251519424840808
+Epoch 86: train loss 0.000103, val loss 0.001252,  test loss 0.210044 
+new best validation loss: 0.0012419110862538218
+Epoch 87: train loss 0.000120, val loss 0.001242,  test loss 0.210213 
+Epoch 88: train loss 0.000120, val loss 0.001257,  test loss 0.210144 
+Epoch 89: train loss 0.000164, val loss 0.001243,  test loss 0.210617 
+Epoch 90: train loss 0.000122, val loss 0.001256,  test loss 0.210327 
+new best validation loss: 0.0012378187384456396
+Epoch 91: train loss 0.000167, val loss 0.001238,  test loss 0.210239 
+Epoch 92: train loss 0.000172, val loss 0.001262,  test loss 0.210111 
+Epoch 93: train loss 0.000120, val loss 0.001284,  test loss 0.209914 
+Epoch 94: train loss 0.000130, val loss 0.001285,  test loss 0.210317 
+Epoch 95: train loss 0.000073, val loss 0.001295,  test loss 0.210268 
+Epoch 96: train loss 0.000115, val loss 0.001299,  test loss 0.210936 
+Epoch 97: train loss 0.000131, val loss 0.001306,  test loss 0.210815 
+Epoch 98: train loss 0.000154, val loss 0.001311,  test loss 0.210863 
+Epoch 99: train loss 0.000209, val loss 0.001299,  test loss 0.210707 
+torch.Size([20, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])
+torch.Size([1, 24, 1])
+torch.Size([41920, 24, 1])

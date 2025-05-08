@@ -1,0 +1,21 @@
+torch.Size([708, 60, 1]) torch.Size([197, 60, 1]) torch.Size([708, 20, 1]) torch.Size([197, 20, 1])
+new best validation loss: 0.8860155344009399
+Epoch 0: train loss 1.471396, val loss 0.886016,  test loss 0.726764 
+new best validation loss: 0.5570934414863586
+Epoch 1: train loss 0.747495, val loss 0.557093,  test loss 0.425836 
+new best validation loss: 0.41310587525367737
+Epoch 2: train loss 0.556820, val loss 0.413106,  test loss 0.333748 
+new best validation loss: 0.39494872093200684
+Epoch 3: train loss 0.477421, val loss 0.394949,  test loss 0.303348 
+new best validation loss: 0.32396450638771057
+Epoch 4: train loss 0.408650, val loss 0.323965,  test loss 0.265688 
+new best validation loss: 0.2951972186565399
+Epoch 5: train loss 0.375211, val loss 0.295197,  test loss 0.246013 
+new best validation loss: 0.29137423634529114
+Epoch 6: train loss 0.337837, val loss 0.291374,  test loss 0.232841 
+new best validation loss: 0.28933173418045044
+Epoch 7: train loss 0.297828, val loss 0.289332,  test loss 0.227421 
+new best validation loss: 0.27937743067741394
+Epoch 8: train loss 0.278887, val loss 0.279377,  test loss 0.214743 
+Epoch 9: train loss 0.264240, val loss 0.284179,  test loss 0.210218 
+Provided model function fails when applied to the provided data set.
