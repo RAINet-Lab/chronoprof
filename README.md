@@ -58,16 +58,15 @@ Replace ```<environment_name>``` with the name of the environment specified in `
 ### 2. Run the Code
 After setting up the environment, you can proceed with running the code for either forecasting or classification tasks.
 
-For **Forecasting**: //
-To run the forecasting code, use the provided script ```run_mv.sh```.
+To run the **forecasting** code example, use the provided script ```run_mv.sh```.
 
 Execute the following command:
 
    ```
    sh run_mv.sh
    ```
-For **Classification**: //
-To run the classification code, use the provided script ```run_tsc_chinatown.sh```. Note that the EUMA dataset used for this study is not publicly available. For demonstration purposes, we include the [Chinatown](https://github.com/iwuqing/Time-Series-Classification-based-on-KNN/tree/master/data/Chinatown) dataset as an example.
+
+To run the **classification** code example, use the provided script ```run_tsc_chinatown.sh```. Note that the EUMA dataset used for this study is not publicly available. For demonstration purposes, we include the [Chinatown](https://github.com/iwuqing/Time-Series-Classification-based-on-KNN/tree/master/data/Chinatown) dataset as an example.
 
 Execute the following command:
 
