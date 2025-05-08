@@ -3,5 +3,4 @@
 *.txt
 *.pt
 !*.gitkeep
-dataset/*
-!dataset/*.gitkeep
+dataset/
