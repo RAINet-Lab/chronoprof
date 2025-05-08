@@ -2,6 +2,8 @@
 
 This repository contains the artifacts from the study **"CHRONOPROF: Profiling Time Series Forecasters and Classifiers in Mobile Networks with Explainable AI."** We plan to release the artifacts publicly once the paper is accepted.
 
+This work will be presented at the IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2025.
+
 ## Overview
 
 Next-generation mobile networks will increasingly rely on **Artificial Intelligence (AI)** and **Machine Learning (ML)** for automation, orchestration, and effective network management. This involves performing **classification and regression tasks on time-series data**. However, existing AI/ML models are often inherently complex and difficult to interpret. This lack of transparency represents a significant barrier to their deployment in production networks.
