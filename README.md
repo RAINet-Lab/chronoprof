@@ -74,4 +74,9 @@ Execute the following command:
    sh run_tsc_chinatown.sh
    ```
 
+## Visualization
+
+To visualize the results, please refer to the notebook ```visualization-forecasting.ipynb ```. This notebook provides a detailed guide on how to visualize the XAI outcomes and gain insights from the model behaviour.
+
+
 
