@@ -36,7 +36,7 @@ We conducted an extensive evaluation using **real mobile traffic data** for fore
 
 To reproduce the experiments in this repository, you will need to manually download the required datasets and place them in the `dataset/` directory:
 
-- **[RRC Connected Users](https://git2.networks.imdea.org/wng/madrid-lte-dataset):** 
+- **[RRC Connected Users](https://box.networks.imdea.org/apps/files/?dir=/dataset&fileid=1859750):** 
 
 - **[Chinatown](https://github.com/iwuqing/Time-Series-Classification-based-on-KNN/tree/master/data/Chinatown):** This dataset is a well known public time series classification benchmark.
 
