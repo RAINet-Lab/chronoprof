@@ -1,0 +1,4 @@
+/results/**.pkl
+/results/**.pt 
+/results/**.txt 
+*.pyc
