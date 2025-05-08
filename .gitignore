@@ -2,6 +2,6 @@
 *.pt 
 *.txt 
 *.pyc
-!Artifacts/results/
-!Artifacts/results/**/
+!results/
+!results/**/
 /_pycache_/
