@@ -1,4 +1,5 @@
-/results/**.pkl
-/results/**.pt 
-/results/**.txt 
+*.pkl
+*.pt 
+*.txt 
 *.pyc
+/_pycache_/
