@@ -1,7 +1,2 @@
 # Ignore all files in results/ and subdirectories
-results/**
-
-# But keep all subdirectories (no files)
-!results/
-!results/**/
-/_pycache_/
+_pycache_/
