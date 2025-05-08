@@ -1,2 +1,4 @@
-# Ignore all files in results/ and subdirectories
-_pycache_
+
+_pycache_/*
+results/**
+!results/**.gitignore
