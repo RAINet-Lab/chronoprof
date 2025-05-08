@@ -42,12 +42,7 @@ To reproduce the experiments in this repository, you will need to manually downl
 
 Once downloaded, please place the datasets inside the `dataset/` folder as follows:
 
-dataset/
-├── Chinatown/
-│ ├── Chinatown_TRAIN.tsv
-│ ├── Chinatown_TEST.tsv
-│ └── README.md
-└── users_allBS.csv
+<pre><code> dataset/ ├── Chinatown/ │ ├── Chinatown_TRAIN.tsv │ ├── Chinatown_TEST.tsv │ └── README.md └── users_allBS.csv </code></pre>
 
 
 ## Running the Code
