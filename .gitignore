@@ -4,3 +4,4 @@
 *.pt
 !*.gitkeep
 /dataset/*
+!/dataset/
