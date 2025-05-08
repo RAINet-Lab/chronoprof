@@ -2,7 +2,7 @@
 
 This repository contains the artifacts from the study **"CHRONOPROF: Profiling Time Series Forecasters and Classifiers in Mobile Networks with Explainable AI."**
 
-This work will be presented at the IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2025.
+This work will be presented at the IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (**WoWMoM**) 2025.
 
 ## Overview
 
@@ -27,7 +27,7 @@ We conducted an extensive evaluation using **real mobile traffic data** for fore
 
 *   **Datasets:**
     *   **EUMA:** Traffic volume measurements from a 4G production network in a European metropolitan area. Fine-grained data (10 min) for forecasting and hourly data (24 values/sequence) for classification. Disclaimer: We can not make this dataset public. 
-    *   **USERS-[https://git2.networks.imdea.org/wng/madrid-lte-dataset](https://git2.networks.imdea.org/wng/madrid-lte-dataset):** Estimated number of active users connected to a production base station, with millisecond-level data aggregated to a 10-minute granularity.
+    *   **[RRC Connected Users](https://git2.networks.imdea.org/wng/madrid-lte-dataset):** Estimated number of active users connected to a production base station, with millisecond-level data aggregated to a 10-minute granularity.
 *   **Models:**
     *   **Forecasting:** PatchTST (transformer-based), TSMixer (MLP-based), DLinear (linear).
     *   **Classification:** PatchTST, TSMixer, "Linear" (simple linear layer as baseline), MultiRocket.
@@ -67,7 +67,7 @@ Execute the following command:
    sh run_mv.sh
    ```
 For **Classification**: //
-To run the classification code, use the provided script ```run_tsc_chinatown.sh```. Note that the EUMA dataset used for this study is not publicly available. For demonstration purposes, we include the Chinatown-[https://github.com/iwuqing/Time-Series-Classification-based-on-KNN/tree/master/data/Chinatown](https://github.com/iwuqing/Time-Series-Classification-based-on-KNN/tree/master/data/Chinatown) dataset as an example.
+To run the classification code, use the provided script ```run_tsc_chinatown.sh```. Note that the EUMA dataset used for this study is not publicly available. For demonstration purposes, we include the [Chinatown](https://github.com/iwuqing/Time-Series-Classification-based-on-KNN/tree/master/data/Chinatown) dataset as an example.
 
 Execute the following command:
 
