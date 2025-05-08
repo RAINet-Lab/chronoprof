@@ -32,6 +32,23 @@ We conducted an extensive evaluation using **real mobile traffic data** for fore
     *   **Forecasting:** PatchTST (transformer-based), TSMixer (MLP-based), DLinear (linear).
     *   **Classification:** PatchTST, TSMixer, "Linear" (simple linear layer as baseline), MultiRocket.
 
+## 📥 Download Datasets
+
+To reproduce the experiments in this repository, you will need to manually download the required datasets and place them in the `dataset/` directory:
+
+- **[RRC Connected Users](https://git2.networks.imdea.org/wng/madrid-lte-dataset):** 
+
+- **[Chinatown](https://github.com/iwuqing/Time-Series-Classification-based-on-KNN/tree/master/data/Chinatown):** This dataset is a well known public time series classification benchmark.
+
+Once downloaded, please place the datasets inside the `dataset/` folder as follows:
+
+dataset/
+├── Chinatown/
+│ ├── Chinatown_TRAIN.tsv
+│ ├── Chinatown_TEST.tsv
+│ └── README.md
+└── users_allBS.csv
+
 
 ## Running the Code
 
