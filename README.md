@@ -2,8 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/980072982.svg)](https://doi.org/10.5281/zenodo.15745345)
 
----
-
 This repository contains the artifacts from the study **"CHRONOPROF: Profiling Time Series Forecasters and Classifiers in Mobile Networks with Explainable AI."**
 
 This work will be presented at the IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (**WoWMoM**) 2025.
